@@ -1,4 +1,4 @@
-# Quarantine Days of Code // Q Days of Code // #QDaysOFCode
+# Quarantine Days of Code // #QDaysOFCode
 
 A #100DaysofCode spin-off for quarantine bois and grills.
 
